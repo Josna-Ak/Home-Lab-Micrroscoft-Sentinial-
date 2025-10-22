@@ -34,27 +34,6 @@ Here are some screenshots from the lab:
 - **4-Hour Attack Map**:  
   ![Attack Map 4hr](screenshots/Attack-map-af-4hr.png)  
 
-- **Firewall Disabled**:  
-  ![Firewall Off](screenshots/Firewall-Off.png)  
-
-- **KQL Query Results**:  
-  ![KQL Query Result](screenshots/KQL-Query-Result.png)  
-
-- **Resource Group Overview**:  
-  ![Resource Group](screenshots/ResourceGroup.png)  
-
-- **Failed Login Attempts (Attackers)**:  
-  ![Failed Login Attackers](screenshots/failed-login-attackers.png)  
-
-- **Failed Login Logs**:  
-  ![Failed Login](screenshots/failed-login.png)  
-
-- **Log Analytics Workspace**:  
-  ![Log Analytics](screenshots/log-analytics.png)  
-
-- **Login Event ID 4625**:  
-  ![Login 4625](screenshots/login-4625.png)  
-
 - **Microsoft Sentinel Dashboard**:  
   ![Sentinel](screenshots/sentinial.png)  
 
