@@ -26,16 +26,16 @@ This is a hands-on SOC lab built using Microsoft Azure and Microsoft Sentinel to
 Here are some screenshots from the lab:
 
 - **Architecture Overview**:  
-  ![Architecture](screenshots/Architecture.png)  
+  <img src="screenshots/Architecture.png" alt="Architecture" width="400"/>  
 
 - **Initial Attack Map**:  
-  ![Attack Map Initial](screenshots/Attack-map-intial.png)  
+  <img src="screenshots/Attack-map-intial.png" alt="Attack Map Initial" width="400"/>  
 
 - **4-Hour Attack Map**:  
-  ![Attack Map 4hr](screenshots/Attack-map-af-4hr.png)  
+  <img src="screenshots/Attack-map-af-4hr.png" alt="Attack Map 4hr" width="400"/>  
 
 - **Microsoft Sentinel Dashboard**:  
-  ![Sentinel](screenshots/sentinial.png)  
+  <img src="screenshots/sentinial.png" alt="Sentinel" width="400"/> 
 
 ## Tools Used
 
